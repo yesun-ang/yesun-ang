@@ -27,13 +27,14 @@ Check out my linked in while you're here: https://www.linkedin.com/in/yesunang/
 
 ## Projects 🔭
 
-Heart Disease Predictors									                     
+**Heart Disease Predictors**									                     
 - Conducted exploratory data analysis and predictive modeling for heart disease using R
 - Built a classification model using decision trees and evaluated performance using a confusion matrix
 - Utilized predictors to identify the underlying causes of heart disease, enabling the development of preventative measures
 
 ## Contact me 😄
 LinkedIn: https://www.linkedin.com/in/yesunang/
+
 Email: yja11@scarletmail.rutgers.edu
 
 <!--
