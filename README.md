@@ -11,14 +11,17 @@ Check out my linked in while you're here: https://www.linkedin.com/in/yesunang/
 - Java
 - C
 - R
+  
 **Data Science:**
 - Pandas
 - NumPy
 - scikit-learn
+  
 **Tools:**
 - Jupityer Notebooks
 - Git
 - Github
+  
 **Databases:**
 - SQL
 
