@@ -16,6 +16,8 @@ Check out my linked in while you're here: https://www.linkedin.com/in/yesunang/
 - Pandas
 - NumPy
 - scikit-learn
+- matplotlib
+- spaCy
   
 **Tools:**
 - Jupityer Notebooks
@@ -32,7 +34,7 @@ Check out my linked in while you're here: https://www.linkedin.com/in/yesunang/
 - Built a classification model using decision trees and evaluated performance using a confusion matrix
 - Utilized predictors to identify the underlying causes of heart disease, enabling the development of preventative measures
 
-## Contact me 😄
+## How to reach me 😄
 LinkedIn: https://www.linkedin.com/in/yesunang/
 
 Email: yja11@scarletmail.rutgers.edu
